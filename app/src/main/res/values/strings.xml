@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">30 Days Of Wellness</string>
+
+    <string name="summary_1">spend some time to learn data structures and algorithms</string>
+    <string name="description_1"> will try to do few problems related to trees and recursion</string>
+
+    <string name="summary_2">Study a new algorithm and understand its implementation.</string>
+    <string name="description_2">Choose a complex algorithm like Dijkstra algorithm or the A* search algorithm. Read relevant sections from  online resources, understand its theory, and implement it in code.</string>
+    <string name="day">Day %s</string>
+
+    <string name="summary_3">Prepare for an upcoming  quiz of enterprise computing .</string>
+    <string name="description_3">Review lecture notes, textbooks, and any supplementary materials to ensure i understand key concepts.</string>
+
+    <string name="summary_4">Design a Database Schema</string>
+    <string name="description_4">Design a database schema for a given application scenario. Normalize the schema to reduce redundancy and ensure data integrity.</string>
+
+    <string name="summary_5">Spend 15 minutes outdoors</string>
+    <string name="description_5">Go for a walk and do exercise</string>
+
+    <string name="summary_6">Healthy Eating Plan</string>
+    <string name="description_6">Create a meal plan for the week focusing on nutritious and balanced meals.
+Include plenty of fruits, vegetables, lean proteins, and whole grains. </string>
+
+    <string name="summary_7">play cricket with friends</string>
+    <string name="description_7">go outside with friends and play cricket</string>
+
+    <string name="summary_8">go to calgary library</string>
+    <string name="description_8">spend some time exploring books</string>
+
+    <string name="summary_9">Build a Portfolio Website</string>
+    <string name="description_9">Create a personal portfolio website showcasing your projects, skills, and experience. Use HTML, CSS, and JavaScript for front-end development. </string>
+
+    <string name="summary_10">Develop a Blogging Platform</string>
+    <string name="description_10">Build a blogging platform where users can create, edit, and publish blog posts. Implement user authentication and authorization using technologies like Express.js and MongoDB. </string>
+
+    <string name="summary_11">Build a 2D Platformer Game:</string>
+    <string name="description_11">Create a 2D platformer game using unreal. Implement player movement, level design, and basic physics interactions. </string>
+
+    <string name="summary_12">Develop a Puzzle Game</string>
+    <string name="description_12">Design and develop a puzzle game with unique mechanics and challenging levels. Use Unity or Unreal Engine features to create engaging gameplay.</string>
+
+    <string name="summary_13">Design a Tower Defense Game</string>
+    <string name="description_13">Build a tower defense game where players strategically place defensive towers to stop waves of enemies. Implement game mechanics like tower upgrades and enemy spawning. </string>
+
+    <string name="summary_14">Optimize Algorithms</string>
+    <string name="description_14">Analyze and optimize the time and space complexity of algorithms. Practice techniques like memoization, dynamic programming, and divide-and-conquer to improve algorithm efficiency. </string>
+
+    <string name="summary_15">Study System Design</string>
+    <string name="description_15">Learn about system design principles and design scalable and efficient systems. Practice designing systems like a URL shortener, social media platform, or ride-sharing service. </string>
+
+    <string name="summary_16">Gratitude Practice</string>
+    <string name="description_16">Cultivate a sense of gratitude by writing down three things you are  grateful for each day. Focus on the positive aspects of your life, no matter how small, and notice how this practice shifts your mindset. </string>
+
+    <string name="summary_17">Mindfulness Meditation</string>
+    <string name="description_17">Dedicate time to mindfulness meditation to cultivate present moment awareness and reduce stress.  </string>
+
+    <string name="summary_18">Vocabulary Expansion</string>
+    <string name="description_18">Improve your vocabulary by learning new words.Look up their definitions and try to use them in sentences of your own. </string>
+
+    <string name="summary_19">Creative Writing Prompts</string>
+    <string name="description_19">Challenge  to write a short story, poem, or personal essay based on daily writing prompts. </string>
+
+    <string name="summary_20">Expense Tracking</string>
+    <string name="description_20">Track your spending habits for a week to identify areas where you can cut back or reallocate funds. </string>
+
+    <string name="summary_21">Plan a Movie Night</string>
+    <string name="description_21">Coordinate with  friends to schedule a movie night. Choose a date, time, and location for the movie screening. </string>
+
+    <string name="summary_22">Tournament Planning</string>
+    <string name="description_22">Organize a game tournament with your friends. Choose a competitive game that everyone enjoys and establish rules for the tournament format. </string>
+
+    <string name="summary_23">Group Study Sessions</string>
+    <string name="description_23">Organize study groups with classmates or friends to collaborate on assignments, review material, and discuss challenging topics.  </string>
+
+    <string name="summary_24">Online Course</string>
+    <string name="description_24">Enroll in an online course related to your professional or personal interests. Spend time each day completing lessons and assignments to expand your knowledge and skills. </string>
+
+    <string name="summary_25">Reach Out to Loved Ones</string>
+    <string name="description_25">Connect with friends or family members you haven not spoken to in a while.  </string>
+
+    <string name="summary_26">Acts of Kindness</string>
+    <string name="description_26">Perform one act of kindness each day, whether it helping a neighbor, volunteering in your community, or offering support to someone in need. </string>
+
+    <string name="summary_27">complete enterprise computing final project</string>
+    <string name="description_27">Embark on the culmination of your enterprise computing journey with the completion of the final project. </string>
+
+    <string name="summary_28">do assignment  3 of dsa </string>
+    <string name="description_28"> will focus on doing assignment 3 and read notes from online resources and taken while class. </string>
+
+    <string name="summary_29">work on developing pac man game</string>
+    <string name="description_29">Embark on developing a Pac-Man game, diving into the realm of retro gaming.  </string>
+
+    <string name="summary_30">give final touch to capstone project</string>
+    <string name="description_30">Finalizing the capstone project involves reviewing and refining all aspects to ensure quality and completeness </string>
+</resources>
